@@ -1,2 +1,2 @@
-# Homework-for-Business
+# Homework-for-TAMUSA
 Past and future assignments/presentations
